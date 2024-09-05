@@ -1,2 +1,1 @@
-# Gungnir
-The Data Analysis And visible Project
+看看能不能整出一个标准化的工具平台，结合各种三方库来进行自动化可视化平台数据展示，目前目标将Gitee先可视化；
